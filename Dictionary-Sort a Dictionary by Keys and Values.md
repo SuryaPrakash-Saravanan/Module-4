@@ -39,6 +39,7 @@ for key, value in sort.items():
 ```
 
 ## Sample Output
+<img width="1265" height="165" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/930ce772-7a04-403a-8504-965297448bbd" />
 
 ## Result
 Thus the program was successfully executed.
