@@ -31,6 +31,8 @@ result = merge(dict1, dict2)
 print(result)
 ```
 ## Output
+<img width="1268" height="174" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/2c98cf2b-6a10-4bc9-883f-f27333a9cfe7" />
+
 
 ## Result
 Thus the program is executed is successfully.
