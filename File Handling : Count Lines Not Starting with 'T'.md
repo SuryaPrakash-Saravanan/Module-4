@@ -23,6 +23,8 @@ print("Number of lines not starting with 'T':", count)
 ```
 
 ## Output
+<img width="1418" height="165" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/81fe9ff6-c17e-4638-b92e-f2a83f8c0226" />
+
 
 ## Result
 Thus the python code was successfully executed.
